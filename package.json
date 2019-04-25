@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/ryanvanderpol/expo-analytics#readme",
   "dependencies": {
+    "cross-fetch": "^2.2.2"
   },
   "devDependencies": {
     "expo": "^20.0.0",

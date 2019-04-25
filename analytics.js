@@ -1,5 +1,6 @@
 import { Platform, Dimensions } from 'react-native';
 import { Constants } from 'expo';
+import fetch from 'cross-fetch'
 
 import { ScreenHit, PageHit, Event, Serializable } from './hits';
 
